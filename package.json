@@ -1,0 +1,22 @@
+{
+  "name": "reactapp",
+  "version": "1.0.0",
+  "description": "React app by Charan",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saicharan1/reactapp.git"
+  },
+  "author": "Charan Reddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saicharan1/reactapp/issues"
+  },
+  "homepage": "https://github.com/saicharan1/reactapp#readme",
+  "dependencies": {
+    "parcel": "^2.9.3"
+  }
+}
